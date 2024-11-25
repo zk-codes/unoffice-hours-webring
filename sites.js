@@ -70,5 +70,9 @@ let sites = [
     {
         name: "Taliesyn",
         url: 'https://www.johnwalker.nl/unoffice-hours'
+    },
+    {
+        name: "Geffrey van der Bos",
+        url: 'https://geff.re/unoffice-hours'
     }
 ]
