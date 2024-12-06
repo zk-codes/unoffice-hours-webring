@@ -74,5 +74,9 @@ let sites = [
     {
         name: "Geffrey van der Bos",
         url: 'https://geff.re/unoffice-hours'
+    },
+    {
+        name: "Kathryn Corrick & Frank Wales",
+        url: 'https://corrick.wales/unoffice-hours'
     }
 ]
