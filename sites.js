@@ -12,20 +12,8 @@ let sites = [
         url: 'https://suda.co.uk/contact/#unoffice-hours'
     },
     {
-        name: "Matthew Knight",
-        url: 'https://www.thinkplaymake.co/#unofficehours'
-    },
-    {
-        name: "Mohamed Ali",
-        url: 'https://superpeer.com/mohamedali/-/unoffice-hours'
-    },
-    {
         name: "Marc Jenkins",
         url: 'https://marcjenkins.co.uk/unoffice-hours/'
-    },
-    {
-        name: "Nick Parker",
-        url: 'https://nickparker.co.uk/unoffice-hours'
     },
     {
         name: "Siobhan Solberg",
@@ -44,14 +32,6 @@ let sites = [
         url: 'https://silentz.co/post/unoffice-hours'
     },
     {
-        name: "Laura Parker",
-        url: 'https://lauraparker.design'
-    },
-    {
-        name: "Emma Cragg",
-        url: 'https://ekcragg.co.uk/unoffice-hours/'
-    },
-    {
         name: "Tony Dang",
         url: 'https://tonydang.blog/unoffice-hours/'
     },
@@ -65,7 +45,7 @@ let sites = [
     },
     {
         name: "Bernardo Vecchia Stein / Daniel Sidhion",
-        url: 'https://sidhion.com/blog/posts/unoffice_hours/'
+        url: 'https://sidhion.com/blog/unoffice_hours/'
     },
     {
         name: "Taliesyn",
