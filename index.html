@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -5,7 +6,7 @@
     <title>Unoffice Hours Webring</title>
     <meta name="description" content="A webring for people offering Unoffice Hours.">
     <link rel="icon" type="image/png" href="/favicon.png" />
-    <link rel="stylesheet" href="/style.css">
+    <link rel="stylesheet" href="/style.css?v=202501">
     <meta property="og:site_name" content="Unoffice Hours Webring">
     <meta property="og:title" content="Unoffice Hours">
     <meta property="og:description" content="A webring for people offering Unoffice Hours.">
@@ -17,24 +18,9 @@
     <meta property="og:image:height" content="700">
     <meta property="og:image:alt" content="">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:site" content="@websmyth">
-    <meta name="twitter:creator" content="@websmyth">
-    <script type="application/ld+json" id="schema">
-    {
-        "@context": "http://schema.org",
-        "@type": "Organization",
-        "url": "https://unofficehours.com,
-        "name": "Unoffice Hours",
-            "logo": "https://unofficehours.com/social.png",
-            "sameAs": [
-        "https://twitter.com/websmyth"
-        ]
-    }
-    </script>
     <script src="/sites.js"></script>
     <script src="/functions.js"></script>
     <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.min.js" defer></script>
-    <link rel="stylesheet" href="https://use.typekit.net/bkp6whf.css">
 </head>
 <body x-data="sites = getSites()">
     <main class="wrapper">
@@ -42,10 +28,6 @@
             <header>
                 <h1>Unoffice Hours</h1>
                 <p class="subhead">A webring for people offering Unoffice Hours.</p>
-                <div class="buttons">
-                    <a href="#people" class="button">People</a>
-                    <a href="#about" class="button buttonAlt">Join + About</a>
-                </div>
             </header>
             <section id="people">
                 <h2>People</h2>
@@ -59,9 +41,9 @@
             <section id="about" class="flow">
                 <h2>Join</h2>
                 <p>If you host an Unoffice Hours, you can join the webring.</p>
-                <p>Once you’ve added the <a href="https://github.com/websmyth/unoffice-hours-webring#how-to-submit-your-site">webring links to your site</a>, you’re ready to join.</p>
-                <p><a href="https://github.com/websmyth/unoffice-hours-webring#how-to-submit-your-site" class="button">Instructions &rarr;</a></p>
-                <p><em>Unfamiliar with Github? <a href="mailto:dave@websmyth.co.uk">Email Dave instead &rarr;</a></em></p>
+                <p>Once you’ve added an Unoffice Hours page and the webring links to your site, you’re ready to join.</p>
+                <p><a href="https://github.com/dave-smyth/unoffice-hours-webring#how-to-submit-your-site">Instructions on GitHub &rarr;</a></p>
+                <p><em>Unfamiliar with Github? <a href="mailto:hello@davesmyth.studio">Email Dave instead &rarr;</a></em></p>
                 <h2>About</h2>
                 <p>Matt Webb <a href="https://interconnected.org/home/2020/09/24/unoffice_hours">created Unoffice Hours</a> as a twist on office hours in September 2020.</p>
                 <p>This webring was launched in September 2021 to make it easier to find people offering Unoffice Hours. It’s maintained by <a href="https://davesmyth.com">Dave Smyth</a>.</p>
