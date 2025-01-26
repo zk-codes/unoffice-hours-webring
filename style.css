@@ -166,8 +166,8 @@ h2 + * {
 }
 .peopleList li {
     position: relative;
-    margin-bottom: var(--space-s);
-    padding-left: var(--space-xl);
+    margin-bottom: var(--space);
+    padding-left: var(--space-2xl);
     page-break-inside: avoid;
     line-height: var(--line-height-s);
 }
