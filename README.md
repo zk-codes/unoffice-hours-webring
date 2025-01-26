@@ -3,9 +3,15 @@ A webring for people offering Unoffice Hours.
 
 ## How to submit your site
 
-**Add the webring links to your site first**, then fork this repo, add your name and Unoffice Hours URL to the [sites.js](https://github.com/websmyth/unoffice-hours-webring/blob/main/sites.js) file, and send me a pull request. 
+**Add an Unoffice Hours page and the webring links to your site first**, then fork this repo, add your name and Unoffice Hours URL to the [sites.js](https://github.com/websmyth/unoffice-hours-webring/blob/main/sites.js) file, and send me a pull request. 
 
-If you’re unfamiliar with Github, [send me an email](mailto:dave@websmyth.co.uk) and I’ll get you set up.
+If you’re unfamiliar with GitHub, [send me an email](mailto:dave@websmyth.co.uk) and I’ll get you set up.
+
+### What sorts of sites can join?
+
+Unoffice Hours are a way to enable conversations and meeting people. Most of the sites in the webring are personal blogs – this webring isn’t for businesses, unless the business is just you.
+
+Unoffice Hours links aren’t actively checked, but links will be removed if I stumble across pages that no longer exist or have been repurposed to do something spammy or outside the spirit of the webring.
 
 ## How to add the webring to your site
 
