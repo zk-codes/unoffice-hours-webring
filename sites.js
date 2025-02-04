@@ -62,5 +62,9 @@ let sites = [
     {
         name: "Bradley Gannon",
         url: 'https://bradleygannon.com/unoffice/'
+    },
+    {
+        name: "John Zhou",
+        url: 'https://www.johnzhou.fun/unofficeshours.html'
     }
 ]
