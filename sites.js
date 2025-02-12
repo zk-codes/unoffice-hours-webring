@@ -70,5 +70,9 @@ let sites = [
     {
         name: "David Tingle",
         url: 'https://tingle.micro.blog/unoffice-hours/'
+    },
+    {
+        name: "Chris Jelley",
+        url: 'https://www.drcto.co.uk/unoffice-hours'
     }
 ]
