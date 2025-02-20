@@ -74,5 +74,9 @@ let sites = [
     {
         name: "Chris Jelley",
         url: 'https://www.drcto.co.uk/unoffice-hours'
+    },
+    {
+        name: "Michael Lai",
+        url: 'https://www.hanakami.art/unoffice-hours'
     }
 ]
