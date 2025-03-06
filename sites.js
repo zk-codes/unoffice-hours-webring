@@ -78,5 +78,9 @@ let sites = [
     {
         name: "Michael Lai",
         url: 'https://www.hanakami.art/unoffice-hours'
+    },
+    {
+        name: "Mi’Jan Celie Tho-Biaz",
+        url: 'https://cal.com/mijancelie/unoffice-hours'
     }
 ]
