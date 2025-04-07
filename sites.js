@@ -82,5 +82,9 @@ let sites = [
     {
         name: "Mi’Jan Celie Tho-Biaz",
         url: 'https://cal.com/mijancelie/unoffice-hours'
+    },
+    {
+        name: "Richard Rutter",
+        url: 'https://clagnut.com/blog/2442/'
     }
 ]
